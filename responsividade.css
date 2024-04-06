@@ -1,0 +1,174 @@
+@media(max-width: 730px) {
+    .cabecalho {
+        height: 506px;
+
+    }
+
+    .cabecalho h1 {
+        width: 278px;
+        height: 64px;
+        font-size: 32px;
+        font-weight: 400;
+        text-align: left;
+        position: relative;
+        right: 50px;
+
+    }
+
+    .cabecalho p {
+        width: 381px;
+        height: 132px;
+        font-size: 16px;
+        font-weight: 400;
+        text-align: justify;
+    }
+
+    .cabecalho .btn {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .btn .btn1 {
+        width: 381px;
+        height: 54px;
+
+    }
+
+    .btn .btn2 {
+        width: 381px;
+        height: 54px;
+    }
+
+    .primeiro {
+        flex-direction: column;
+    }
+
+    .primeiro img {
+        width: 379px;
+        height: 252px;
+    }
+
+    .primeiro h1 {
+        width: 370px;
+        height: 99px;
+        font-weight: 700;
+        font-size: 24px;
+        text-align: justify;
+        line-height: 32px;
+    }
+
+    .primeiro p {
+        width: 378px;
+        height: 88px;
+        text-align: justify;
+
+    }
+
+    .segundo {
+        display: flex;
+        flex-direction: column;
+        
+    }
+
+    .segundo img {
+        width: 379px;
+        height: 252px;
+        order: 1;  
+    }
+
+    .segundo h1 {
+        width: 370px;
+        height: 99px;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 32px;
+        text-align: justify;
+        
+        
+    }
+
+    .segundo p {
+        width: 378px;
+        height: 88px;
+        text-align: justify;
+        
+
+    }
+
+    .terceiro {
+        flex-direction: column;
+    }
+
+    .terceiro img {
+        width: 379px;
+        height: 252px;
+    }
+
+    .terceiro h1 {
+        width: 370px;
+        height: 99px;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 32px;
+        text-align: justify;
+    }
+
+    .terceiro p {
+        width: 378px;
+        height: 88px;
+        text-align: justify;
+
+    }
+
+    .quarto {
+        flex-direction: column;
+    }
+
+    .quarto img {
+        width: 379px;
+        height: 252px;
+    }
+
+    .quarto h1 {
+        width: 376px;
+        height: 64px;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 32px;
+        text-align: left;
+        
+    }
+
+    .quarto p {
+        width: 378px;
+        height: 88px;
+        text-align: justify;
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

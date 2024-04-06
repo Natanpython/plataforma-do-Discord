@@ -1,0 +1,156 @@
+body{
+    max-width: 1800px;
+    margin: auto;
+}
+.cabecalho{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background:url(imagem/Header\ Background.png);
+    background-size: cover;
+    height: 459px;
+    color: #fff; 
+    gap: 20px; 
+}
+.cabecalho h1{
+    font-family: 'Luckiest Guy';
+    max-width: 313px;
+    height: 112px;
+    font-weight: 400;
+    font-size: 56px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.cabecalho p{
+    font-family: 'Open Sans';
+    max-width: 757px;
+    height: 66px;
+    font-weight: 400;
+    font-size:16px;
+    text-align: center;
+}
+.cabecalho .btn{
+    font-family: 'Open Sans';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1240px;
+    gap: 30px;
+}
+.cabecalho .btn .btn1{
+   background-color: #fff;
+   color: black;
+   font-weight: 400;
+   font-size: 16px;
+   border-radius: 20px;
+   border: 10px solid #fff;   
+}
+.cabecalho .btn .btn2{
+    background-color: #23272a;
+    color: #fff;
+    font-weight: 400;
+    font-size: 16px;
+    border-radius: 20px;
+    border: 10px solid #23272a;  
+}
+.container{
+    height: 100%;
+    gap: 10px;
+    
+}
+.primeiro{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.primeiro h1{
+    max-width: 329px;
+    height: 270px;
+    font-weight: 800;
+    font-size: 40px;
+    
+}
+.primeiro p{
+    max-width: 348px;
+    height: 88px;
+    font-size: 16px;
+    font-weight: 400;   
+}
+.segundo{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.segundo h1{
+    max-width: 329px;
+    height: 108px;
+    font-weight: 800;
+    font-size: 40px;
+
+}
+.segundo p{
+    max-width: 348px;
+    height: 88px;
+    font-size: 16px;
+    font-weight: 400;
+
+
+}
+.terceiro{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.terceiro h1{
+    max-width: 329px;
+    height: 108;
+    font-size: 40px;
+    font-weight: 800;
+}
+.terceiro p{
+    max-width: 348px;
+    height: 110px;
+    font-size: 16px;
+    font-weight: 400;
+}
+.quarto{
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 1800px;
+    height: 744px;
+    gap: 40px;
+}
+.quarto h1{
+    font-family: 'Luckiest Guy';
+    max-width: 608px;
+    height: 80px;
+    font-weight: 400;
+    font-size: 40px;
+    text-align: center;
+}
+.quarto p{
+    max-width: 802px;
+    height: 44px;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: center;
+}
+.rodape{
+    height: 134px;
+    max-width: 1800px;
+    background-color: #23272a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
